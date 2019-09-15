@@ -553,7 +553,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1334829407}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 7ab0e80cee9cc1d44928bfe488dd1e2d, type: 3}
   m_Name: 
@@ -601,6 +601,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2a7662501cf0ee042be054c57da69a87, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  paint: {fileID: 5007440224497281082, guid: adfb8b647f2f03e45846430251d6016a, type: 3}
+  paintCanvas: {fileID: 1818371198}
 --- !u!4 &1475865309
 Transform:
   m_ObjectHideFlags: 0

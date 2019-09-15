@@ -13,14 +13,14 @@ ScriptsOnlyBuild:
     Unity.XR.ARFoundation.dll:
     - UnityEngine.XR.ARFoundation.ARCameraBackground
     - UnityEngine.XR.ARFoundation.ARCameraManager
-    - UnityEngine.XR.ARFoundation.ARFace
-    - UnityEngine.XR.ARFoundation.ARFaceManager
-    - UnityEngine.XR.ARFoundation.ARFaceMeshVisualizer
     - UnityEngine.XR.ARFoundation.ARInputManager
     - UnityEngine.XR.ARFoundation.ARPlane
     - UnityEngine.XR.ARFoundation.ARPlaneManager
     - UnityEngine.XR.ARFoundation.ARPlaneMeshVisualizer
+    - UnityEngine.XR.ARFoundation.ARPointCloud
     - UnityEngine.XR.ARFoundation.ARPointCloudManager
+    - UnityEngine.XR.ARFoundation.ARPointCloudParticleVisualizer
+    - UnityEngine.XR.ARFoundation.ARRaycastManager
     - UnityEngine.XR.ARFoundation.ARSession
     - UnityEngine.XR.ARFoundation.ARSessionOrigin
     UnityEditor.TestRunner.dll:
@@ -71,6 +71,8 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 9886}
     - Class: 114
+      Script: {instanceID: 9924}
+    - Class: 114
       Script: {instanceID: 10074}
     - Class: 114
       Script: {instanceID: 10252}
@@ -81,13 +83,13 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 10360}
     - Class: 114
-      Script: {instanceID: 10386}
-    - Class: 114
       Script: {instanceID: 10504}
+    - Class: 114
+      Script: {instanceID: 10658}
     - Class: 114
       Script: {instanceID: 10750}
     - Class: 114
-      Script: {instanceID: 10838}
+      Script: {instanceID: 10930}
     - Class: 114
       Script: {instanceID: 10984}
     - Class: 114
@@ -96,8 +98,6 @@ ScriptsOnlyBuild:
       Script: {instanceID: 11010}
     - Class: 114
       Script: {instanceID: 11152}
-    - Class: 114
-      Script: {instanceID: 11184}
     - Class: 114
       Script: {instanceID: 11198}
     - Class: 114
@@ -127,6 +127,10 @@ ScriptsOnlyBuild:
     - Class: 136
       Script: {instanceID: 0}
     - Class: 157
+      Script: {instanceID: 0}
+    - Class: 198
+      Script: {instanceID: 0}
+    - Class: 199
       Script: {instanceID: 0}
     - Class: 213
       Script: {instanceID: 0}
@@ -723,7 +727,7 @@ ScriptsOnlyBuild:
     className: PlayableTrack
   - hash:
       serializedVersion: 2
-      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+      Hash: 47045b1b673e40893778585fcdd6716a
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
     className: PaintManager
