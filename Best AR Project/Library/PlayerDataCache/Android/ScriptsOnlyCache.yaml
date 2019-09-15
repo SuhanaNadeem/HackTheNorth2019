@@ -99,17 +99,17 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 11480}
     - Class: 114
-      Script: {instanceID: 11496}
+      Script: {instanceID: 11614}
     - Class: 114
-      Script: {instanceID: 11616}
+      Script: {instanceID: 11662}
     - Class: 114
-      Script: {instanceID: 11664}
+      Script: {instanceID: 11702}
     - Class: 114
-      Script: {instanceID: 11704}
+      Script: {instanceID: 11736}
     - Class: 114
-      Script: {instanceID: 11738}
+      Script: {instanceID: 11962}
     - Class: 114
-      Script: {instanceID: 24584}
+      Script: {instanceID: 11964}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -611,12 +611,6 @@ ScriptsOnlyBuild:
     className: ARInputManager
   - hash:
       serializedVersion: 2
-      Hash: b2e9769fa21b2d799ca113bbbf055306
-    assemblyName: Assembly-CSharp.dll
-    namespaceName: 
-    className: ColourManager
-  - hash:
-      serializedVersion: 2
       Hash: 1bc03a501323d00d0037a6b76d25a3ba
     assemblyName: Unity.XR.ARFoundation.dll
     namespaceName: UnityEngine.XR.ARFoundation
@@ -731,11 +725,17 @@ ScriptsOnlyBuild:
     className: PlayableTrack
   - hash:
       serializedVersion: 2
-      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+      Hash: 235a1e8275c5d1ab2a1c0f017d90e1b5
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
     className: ScreenshotManager
+  - hash:
+      serializedVersion: 2
+      Hash: b2e9769fa21b2d799ca113bbbf055306
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: ColourManager
   platform: 13
   scenePathNames:
   - Assets/Scenes/BEST Scene.unity
-  playerPath: C:/Users/shuqi/Documents/GitHub/HackTheNorth2019/Best AR Project/Builds/build0.apk
+  playerPath: C:/Users/shuqi/Documents/GitHub/HackTheNorth2019/Best AR Project/builds/build0.apk
