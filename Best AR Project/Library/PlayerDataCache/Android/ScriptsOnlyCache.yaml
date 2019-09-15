@@ -701,7 +701,7 @@ ScriptsOnlyBuild:
     className: PlayableTrack
   - hash:
       serializedVersion: 2
-      Hash: 47045b1b673e40893778585fcdd6716a
+      Hash: d73024e4ac73ab6d6837405a6ec24f08
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
     className: PaintManager
