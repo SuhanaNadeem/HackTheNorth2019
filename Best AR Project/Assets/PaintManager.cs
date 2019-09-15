@@ -28,6 +28,7 @@ public class PaintManager : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+
         Vector3 screenCentre = Camera.current.ViewportToScreenPoint(new Vector3(0.5f, 0.5f));
         List<ARRaycastHit> rayHits = new List<ARRaycastHit>();
         arRaycastManager.Raycast(screenCentre, rayHits, TrackableType.Planes);

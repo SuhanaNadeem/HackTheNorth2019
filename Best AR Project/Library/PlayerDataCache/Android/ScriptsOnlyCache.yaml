@@ -2,6 +2,7 @@ ScriptsOnlyBuild:
   usedScripts:
     Assembly-CSharp.dll:
     - PaintManager
+    - SizeManager
     Unity.TextMeshPro.dll:
     - TMPro.TMP_FontAsset
     - TMPro.TMP_Settings
@@ -30,6 +31,7 @@ ScriptsOnlyBuild:
     - UnityEngine.UI.CanvasScaler
     - UnityEngine.UI.GraphicRaycaster
     - UnityEngine.UI.Image
+    - UnityEngine.UI.Slider
   sceneClasses:
     Assets/Scenes/BEST Scene.unity:
     - Class: 1
@@ -97,7 +99,11 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 11674}
     - Class: 114
+      Script: {instanceID: 11708}
+    - Class: 114
       Script: {instanceID: 15924}
+    - Class: 114
+      Script: {instanceID: 25908}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -705,6 +711,12 @@ ScriptsOnlyBuild:
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
     className: PaintManager
+  - hash:
+      serializedVersion: 2
+      Hash: 7a5ebb0dc8b8e1b555e5fd09155377fa
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: SizeManager
   platform: 13
   scenePathNames:
   - Assets/Scenes/BEST Scene.unity

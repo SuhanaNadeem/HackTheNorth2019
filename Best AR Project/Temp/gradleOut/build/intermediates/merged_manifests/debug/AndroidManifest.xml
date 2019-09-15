@@ -53,7 +53,7 @@
             android:hardwareAccelerated="false"
             android:label="@string/app_name"
             android:launchMode="singleTask"
-            android:screenOrientation="fullSensor" >
+            android:screenOrientation="portrait" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
@@ -70,7 +70,7 @@
 
         <meta-data
             android:name="unity.build-id"
-            android:value="354b4cc1-7da3-4f13-b905-a104a53b7d85" />
+            android:value="6860d1f9-cbc1-4271-8cbf-9c2300dbfcdb" />
         <meta-data
             android:name="unity.splash-mode"
             android:value="0" />

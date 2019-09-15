@@ -1,4 +1,4 @@
-#Sat Sep 14 22:50:26 EDT 2019
+#Sun Sep 15 00:14:55 EDT 2019
 base.0=C\:\\Users\\shuqi\\Documents\\GitHub\\HackTheNorth2019\\Best AR Project\\Temp\\gradleOut\\build\\intermediates\\transforms\\dexMerger\\debug\\0
 path.1=classes.dex
 renamed.1=classes2.dex
