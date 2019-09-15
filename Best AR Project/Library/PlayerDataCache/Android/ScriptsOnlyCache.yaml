@@ -1,7 +1,9 @@
 ScriptsOnlyBuild:
   usedScripts:
     Assembly-CSharp.dll:
+    - ColourManager
     - PaintManager
+    - ScreenshotManager
     - SizeManager
     Unity.TextMeshPro.dll:
     - TMPro.TMP_FontAsset
@@ -61,49 +63,53 @@ ScriptsOnlyBuild:
     - Class: 109
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 9672}
+      Script: {instanceID: 9696}
     - Class: 114
-      Script: {instanceID: 9886}
+      Script: {instanceID: 9726}
     - Class: 114
-      Script: {instanceID: 9924}
+      Script: {instanceID: 9912}
     - Class: 114
-      Script: {instanceID: 10074}
+      Script: {instanceID: 9950}
     - Class: 114
-      Script: {instanceID: 10252}
+      Script: {instanceID: 10100}
     - Class: 114
-      Script: {instanceID: 10332}
+      Script: {instanceID: 10278}
     - Class: 114
-      Script: {instanceID: 10360}
+      Script: {instanceID: 10358}
     - Class: 114
-      Script: {instanceID: 10984}
-    - Class: 114
-      Script: {instanceID: 10994}
+      Script: {instanceID: 10386}
     - Class: 114
       Script: {instanceID: 11010}
     - Class: 114
-      Script: {instanceID: 11152}
+      Script: {instanceID: 11020}
     - Class: 114
-      Script: {instanceID: 11218}
+      Script: {instanceID: 11036}
     - Class: 114
-      Script: {instanceID: 11262}
+      Script: {instanceID: 11040}
     - Class: 114
-      Script: {instanceID: 11286}
+      Script: {instanceID: 11180}
     - Class: 114
-      Script: {instanceID: 11436}
+      Script: {instanceID: 11246}
     - Class: 114
-      Script: {instanceID: 11452}
+      Script: {instanceID: 11290}
     - Class: 114
-      Script: {instanceID: 11586}
+      Script: {instanceID: 11314}
     - Class: 114
-      Script: {instanceID: 11634}
+      Script: {instanceID: 11464}
     - Class: 114
-      Script: {instanceID: 11674}
+      Script: {instanceID: 11480}
     - Class: 114
-      Script: {instanceID: 11708}
+      Script: {instanceID: 11496}
     - Class: 114
-      Script: {instanceID: 15924}
+      Script: {instanceID: 11616}
     - Class: 114
-      Script: {instanceID: 25908}
+      Script: {instanceID: 11664}
+    - Class: 114
+      Script: {instanceID: 11704}
+    - Class: 114
+      Script: {instanceID: 11738}
+    - Class: 114
+      Script: {instanceID: 24584}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -135,6 +141,12 @@ ScriptsOnlyBuild:
     assemblyName: Unity.TextMeshPro.dll
     namespaceName: TMPro
     className: TMP_SelectionCaret
+  - hash:
+      serializedVersion: 2
+      Hash: d73024e4ac73ab6d6837405a6ec24f08
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: PaintManager
   - hash:
       serializedVersion: 2
       Hash: 87ff43d2baf3385cba327d8f803a4ebb
@@ -491,6 +503,12 @@ ScriptsOnlyBuild:
     className: ActivationPlayableAsset
   - hash:
       serializedVersion: 2
+      Hash: 7a5ebb0dc8b8e1b555e5fd09155377fa
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: SizeManager
+  - hash:
+      serializedVersion: 2
       Hash: 18c222bef9ae745ce69ddde9b74337ca
     assemblyName: UnityEngine.UI.dll
     namespaceName: UnityEngine.EventSystems
@@ -591,6 +609,12 @@ ScriptsOnlyBuild:
     assemblyName: Unity.XR.ARFoundation.dll
     namespaceName: UnityEngine.XR.ARFoundation
     className: ARInputManager
+  - hash:
+      serializedVersion: 2
+      Hash: b2e9769fa21b2d799ca113bbbf055306
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: ColourManager
   - hash:
       serializedVersion: 2
       Hash: 1bc03a501323d00d0037a6b76d25a3ba
@@ -707,16 +731,10 @@ ScriptsOnlyBuild:
     className: PlayableTrack
   - hash:
       serializedVersion: 2
-      Hash: d73024e4ac73ab6d6837405a6ec24f08
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
-    className: PaintManager
-  - hash:
-      serializedVersion: 2
-      Hash: 7a5ebb0dc8b8e1b555e5fd09155377fa
-    assemblyName: Assembly-CSharp.dll
-    namespaceName: 
-    className: SizeManager
+    className: ScreenshotManager
   platform: 13
   scenePathNames:
   - Assets/Scenes/BEST Scene.unity

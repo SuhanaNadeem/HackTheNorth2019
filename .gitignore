@@ -10,6 +10,14 @@
 /[Ll]ogs/
 /[Mm]emoryCaptures/
 
+/Best AR Project/[Ll]ibrary/
+/Best AR Project/[Tt]emp/
+/Best AR Project/[Oo]bj/
+/Best AR Project/[Bb]uild/
+/Best AR Project/[Bb]uilds/
+/Best AR Project/[Ll]ogs/
+/Best AR Project/[Mm]emoryCaptures/
+
 # Never ignore Asset meta data
 !/[Aa]ssets/**/*.meta
 
@@ -60,3 +68,5 @@ crashlytics-build.properties
 
 # THE STUPID LOCK FILE
 UnityLockfile
+
+/Best AR Project/obj/Debug/

@@ -52,15 +52,15 @@ MERGED from [:arcore_client:] C:\Users\shuqi\.gradle\caches\transforms-2\files-2
 activity#com.unity3d.player.UnityPlayerActivity
 ADDED from C:\Users\shuqi\Documents\GitHub\HackTheNorth2019\Best AR Project\Temp\gradleOut\src\main\AndroidManifest.xml:5:5-12:16
 	android:screenOrientation
-		ADDED from C:\Users\shuqi\Documents\GitHub\HackTheNorth2019\Best AR Project\Temp\gradleOut\src\main\AndroidManifest.xml:5:102-140
+		ADDED from C:\Users\shuqi\Documents\GitHub\HackTheNorth2019\Best AR Project\Temp\gradleOut\src\main\AndroidManifest.xml:5:102-138
 	android:label
 		ADDED from C:\Users\shuqi\Documents\GitHub\HackTheNorth2019\Best AR Project\Temp\gradleOut\src\main\AndroidManifest.xml:5:69-101
 	android:launchMode
-		ADDED from C:\Users\shuqi\Documents\GitHub\HackTheNorth2019\Best AR Project\Temp\gradleOut\src\main\AndroidManifest.xml:5:141-172
+		ADDED from C:\Users\shuqi\Documents\GitHub\HackTheNorth2019\Best AR Project\Temp\gradleOut\src\main\AndroidManifest.xml:5:139-170
 	android:hardwareAccelerated
-		ADDED from C:\Users\shuqi\Documents\GitHub\HackTheNorth2019\Best AR Project\Temp\gradleOut\src\main\AndroidManifest.xml:5:355-390
+		ADDED from C:\Users\shuqi\Documents\GitHub\HackTheNorth2019\Best AR Project\Temp\gradleOut\src\main\AndroidManifest.xml:5:353-388
 	android:configChanges
-		ADDED from C:\Users\shuqi\Documents\GitHub\HackTheNorth2019\Best AR Project\Temp\gradleOut\src\main\AndroidManifest.xml:5:173-354
+		ADDED from C:\Users\shuqi\Documents\GitHub\HackTheNorth2019\Best AR Project\Temp\gradleOut\src\main\AndroidManifest.xml:5:171-352
 	android:name
 		ADDED from C:\Users\shuqi\Documents\GitHub\HackTheNorth2019\Best AR Project\Temp\gradleOut\src\main\AndroidManifest.xml:5:15-68
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
