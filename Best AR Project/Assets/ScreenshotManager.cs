@@ -5,8 +5,13 @@ using System.IO;
 
 public class ScreenshotManager : MonoBehaviour
 {
+
+    public GameObject panel;
+
+
     public void takeScreenshot()
     {
+        panel.SetActive(false);
         ScreenCapture.CaptureScreenshot("SprayZ");
     }
 
