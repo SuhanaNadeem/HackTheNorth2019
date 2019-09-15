@@ -12,8 +12,11 @@ public class ScreenshotManager : MonoBehaviour
 
     public void takeScreenshot()
     {
+        // file name
+        string curTime = "Spray" + System.DateTime.Now.ToString("yyyy MMMM dd HH:mm:ss") + ".png";
+
         panel.SetActive(false);
-        ScreenCapture.CaptureScreenshot("SprayZ.png");
+        ScreenCapture.CaptureScreenshot(curTime);
         counter = 0.5f;
     }
 
