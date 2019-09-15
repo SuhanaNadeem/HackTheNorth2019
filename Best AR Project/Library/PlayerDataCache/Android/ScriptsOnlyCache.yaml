@@ -7,19 +7,14 @@ ScriptsOnlyBuild:
     - TMPro.TMP_Settings
     - TMPro.TMP_SpriteAsset
     - TMPro.TMP_StyleSheet
-    - TMPro.TextMeshProUGUI
     Unity.XR.ARCore.Editor.dll:
     - UnityEditor.XR.ARCore.ARCoreSettings
     Unity.XR.ARFoundation.dll:
     - UnityEngine.XR.ARFoundation.ARCameraBackground
     - UnityEngine.XR.ARFoundation.ARCameraManager
     - UnityEngine.XR.ARFoundation.ARInputManager
-    - UnityEngine.XR.ARFoundation.ARPlane
     - UnityEngine.XR.ARFoundation.ARPlaneManager
-    - UnityEngine.XR.ARFoundation.ARPlaneMeshVisualizer
-    - UnityEngine.XR.ARFoundation.ARPointCloud
     - UnityEngine.XR.ARFoundation.ARPointCloudManager
-    - UnityEngine.XR.ARFoundation.ARPointCloudParticleVisualizer
     - UnityEngine.XR.ARFoundation.ARRaycastManager
     - UnityEngine.XR.ARFoundation.ARSession
     - UnityEngine.XR.ARFoundation.ARSessionOrigin
@@ -32,7 +27,6 @@ ScriptsOnlyBuild:
     - UnityEngine.EventSystems.EventSystem
     - UnityEngine.EventSystems.EventTrigger
     - UnityEngine.EventSystems.StandaloneInputModule
-    - UnityEngine.UI.Button
     - UnityEngine.UI.CanvasScaler
     - UnityEngine.UI.GraphicRaycaster
     - UnityEngine.UI.Image
@@ -58,8 +52,6 @@ ScriptsOnlyBuild:
       Script: {instanceID: 0}
     - Class: 49
       Script: {instanceID: 0}
-    - Class: 64
-      Script: {instanceID: 0}
     - Class: 89
       Script: {instanceID: 0}
     - Class: 104
@@ -77,19 +69,9 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 10252}
     - Class: 114
-      Script: {instanceID: 10282}
-    - Class: 114
       Script: {instanceID: 10332}
     - Class: 114
       Script: {instanceID: 10360}
-    - Class: 114
-      Script: {instanceID: 10504}
-    - Class: 114
-      Script: {instanceID: 10658}
-    - Class: 114
-      Script: {instanceID: 10750}
-    - Class: 114
-      Script: {instanceID: 10930}
     - Class: 114
       Script: {instanceID: 10984}
     - Class: 114
@@ -98,8 +80,6 @@ ScriptsOnlyBuild:
       Script: {instanceID: 11010}
     - Class: 114
       Script: {instanceID: 11152}
-    - Class: 114
-      Script: {instanceID: 11198}
     - Class: 114
       Script: {instanceID: 11218}
     - Class: 114
@@ -120,17 +100,11 @@ ScriptsOnlyBuild:
       Script: {instanceID: 15924}
     - Class: 115
       Script: {instanceID: 0}
-    - Class: 120
-      Script: {instanceID: 0}
     - Class: 128
       Script: {instanceID: 0}
     - Class: 136
       Script: {instanceID: 0}
     - Class: 157
-      Script: {instanceID: 0}
-    - Class: 198
-      Script: {instanceID: 0}
-    - Class: 199
       Script: {instanceID: 0}
     - Class: 213
       Script: {instanceID: 0}
