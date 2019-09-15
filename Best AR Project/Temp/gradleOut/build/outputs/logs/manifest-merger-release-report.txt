@@ -1,0 +1,197 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\shuqi\Documents\GitHub\HackTheNorth2019\Best AR Project\Temp\gradleOut\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\Users\shuqi\Documents\GitHub\HackTheNorth2019\Best AR Project\Temp\gradleOut\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\Users\shuqi\Documents\GitHub\HackTheNorth2019\Best AR Project\Temp\gradleOut\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\Users\shuqi\Documents\GitHub\HackTheNorth2019\Best AR Project\Temp\gradleOut\src\main\AndroidManifest.xml:2:1-27:12
+MERGED from [:arcore_client:] C:\Users\shuqi\.gradle\caches\transforms-2\files-2.1\90a627d54ccecb45db3725316652e25c\AndroidManifest.xml:17:1-46:12
+MERGED from [:unityandroidpermissions:] C:\Users\shuqi\.gradle\caches\transforms-2\files-2.1\e2dd06078b3b39d452c49f69f7080a2a\AndroidManifest.xml:6:1-15:12
+INJECTED from C:\Users\shuqi\Documents\GitHub\HackTheNorth2019\Best AR Project\Temp\gradleOut\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\Users\shuqi\Documents\GitHub\HackTheNorth2019\Best AR Project\Temp\gradleOut\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\Users\shuqi\Documents\GitHub\HackTheNorth2019\Best AR Project\Temp\gradleOut\src\main\AndroidManifest.xml:2:1-27:12
+	package
+		ADDED from C:\Users\shuqi\Documents\GitHub\HackTheNorth2019\Best AR Project\Temp\gradleOut\src\main\AndroidManifest.xml:2:70-112
+		INJECTED from C:\Users\shuqi\Documents\GitHub\HackTheNorth2019\Best AR Project\Temp\gradleOut\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\shuqi\Documents\GitHub\HackTheNorth2019\Best AR Project\Temp\gradleOut\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\shuqi\Documents\GitHub\HackTheNorth2019\Best AR Project\Temp\gradleOut\src\main\AndroidManifest.xml
+		ADDED from C:\Users\shuqi\Documents\GitHub\HackTheNorth2019\Best AR Project\Temp\gradleOut\src\main\AndroidManifest.xml:2:1-27:12
+		INJECTED from C:\Users\shuqi\Documents\GitHub\HackTheNorth2019\Best AR Project\Temp\gradleOut\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\shuqi\Documents\GitHub\HackTheNorth2019\Best AR Project\Temp\gradleOut\src\main\AndroidManifest.xml:2:113-159
+	android:versionCode
+		INJECTED from C:\Users\shuqi\Documents\GitHub\HackTheNorth2019\Best AR Project\Temp\gradleOut\src\main\AndroidManifest.xml
+		ADDED from C:\Users\shuqi\Documents\GitHub\HackTheNorth2019\Best AR Project\Temp\gradleOut\src\main\AndroidManifest.xml:2:1-27:12
+		INJECTED from C:\Users\shuqi\Documents\GitHub\HackTheNorth2019\Best AR Project\Temp\gradleOut\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\shuqi\Documents\GitHub\HackTheNorth2019\Best AR Project\Temp\gradleOut\src\main\AndroidManifest.xml:2:11-69
+	android:installLocation
+		ADDED from C:\Users\shuqi\Documents\GitHub\HackTheNorth2019\Best AR Project\Temp\gradleOut\src\main\AndroidManifest.xml:2:160-200
+supports-screens
+ADDED from C:\Users\shuqi\Documents\GitHub\HackTheNorth2019\Best AR Project\Temp\gradleOut\src\main\AndroidManifest.xml:3:3-163
+	android:largeScreens
+		ADDED from C:\Users\shuqi\Documents\GitHub\HackTheNorth2019\Best AR Project\Temp\gradleOut\src\main\AndroidManifest.xml:3:78-105
+	android:smallScreens
+		ADDED from C:\Users\shuqi\Documents\GitHub\HackTheNorth2019\Best AR Project\Temp\gradleOut\src\main\AndroidManifest.xml:3:21-48
+	android:normalScreens
+		ADDED from C:\Users\shuqi\Documents\GitHub\HackTheNorth2019\Best AR Project\Temp\gradleOut\src\main\AndroidManifest.xml:3:49-77
+	android:xlargeScreens
+		ADDED from C:\Users\shuqi\Documents\GitHub\HackTheNorth2019\Best AR Project\Temp\gradleOut\src\main\AndroidManifest.xml:3:106-134
+	android:anyDensity
+		ADDED from C:\Users\shuqi\Documents\GitHub\HackTheNorth2019\Best AR Project\Temp\gradleOut\src\main\AndroidManifest.xml:3:135-160
+application
+ADDED from C:\Users\shuqi\Documents\GitHub\HackTheNorth2019\Best AR Project\Temp\gradleOut\src\main\AndroidManifest.xml:4:3-19:17
+MERGED from [:arcore_client:] C:\Users\shuqi\.gradle\caches\transforms-2\files-2.1\90a627d54ccecb45db3725316652e25c\AndroidManifest.xml:30:5-44:19
+MERGED from [:arcore_client:] C:\Users\shuqi\.gradle\caches\transforms-2\files-2.1\90a627d54ccecb45db3725316652e25c\AndroidManifest.xml:30:5-44:19
+	android:label
+		ADDED from C:\Users\shuqi\Documents\GitHub\HackTheNorth2019\Best AR Project\Temp\gradleOut\src\main\AndroidManifest.xml:4:90-122
+	android:icon
+		ADDED from C:\Users\shuqi\Documents\GitHub\HackTheNorth2019\Best AR Project\Temp\gradleOut\src\main\AndroidManifest.xml:4:58-89
+	android:theme
+		ADDED from C:\Users\shuqi\Documents\GitHub\HackTheNorth2019\Best AR Project\Temp\gradleOut\src\main\AndroidManifest.xml:4:16-57
+activity#com.unity3d.player.UnityPlayerActivity
+ADDED from C:\Users\shuqi\Documents\GitHub\HackTheNorth2019\Best AR Project\Temp\gradleOut\src\main\AndroidManifest.xml:5:5-12:16
+	android:screenOrientation
+		ADDED from C:\Users\shuqi\Documents\GitHub\HackTheNorth2019\Best AR Project\Temp\gradleOut\src\main\AndroidManifest.xml:5:102-138
+	android:label
+		ADDED from C:\Users\shuqi\Documents\GitHub\HackTheNorth2019\Best AR Project\Temp\gradleOut\src\main\AndroidManifest.xml:5:69-101
+	android:launchMode
+		ADDED from C:\Users\shuqi\Documents\GitHub\HackTheNorth2019\Best AR Project\Temp\gradleOut\src\main\AndroidManifest.xml:5:139-170
+	android:hardwareAccelerated
+		ADDED from C:\Users\shuqi\Documents\GitHub\HackTheNorth2019\Best AR Project\Temp\gradleOut\src\main\AndroidManifest.xml:5:353-388
+	android:configChanges
+		ADDED from C:\Users\shuqi\Documents\GitHub\HackTheNorth2019\Best AR Project\Temp\gradleOut\src\main\AndroidManifest.xml:5:171-352
+	android:name
+		ADDED from C:\Users\shuqi\Documents\GitHub\HackTheNorth2019\Best AR Project\Temp\gradleOut\src\main\AndroidManifest.xml:5:15-68
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\shuqi\Documents\GitHub\HackTheNorth2019\Best AR Project\Temp\gradleOut\src\main\AndroidManifest.xml:6:7-9:23
+action#android.intent.action.MAIN
+ADDED from C:\Users\shuqi\Documents\GitHub\HackTheNorth2019\Best AR Project\Temp\gradleOut\src\main\AndroidManifest.xml:7:9-61
+	android:name
+		ADDED from C:\Users\shuqi\Documents\GitHub\HackTheNorth2019\Best AR Project\Temp\gradleOut\src\main\AndroidManifest.xml:7:17-58
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\shuqi\Documents\GitHub\HackTheNorth2019\Best AR Project\Temp\gradleOut\src\main\AndroidManifest.xml:8:9-69
+	android:name
+		ADDED from C:\Users\shuqi\Documents\GitHub\HackTheNorth2019\Best AR Project\Temp\gradleOut\src\main\AndroidManifest.xml:8:19-66
+meta-data#unityplayer.UnityActivity
+ADDED from C:\Users\shuqi\Documents\GitHub\HackTheNorth2019\Best AR Project\Temp\gradleOut\src\main\AndroidManifest.xml:10:7-82
+	android:value
+		ADDED from C:\Users\shuqi\Documents\GitHub\HackTheNorth2019\Best AR Project\Temp\gradleOut\src\main\AndroidManifest.xml:10:59-79
+	android:name
+		ADDED from C:\Users\shuqi\Documents\GitHub\HackTheNorth2019\Best AR Project\Temp\gradleOut\src\main\AndroidManifest.xml:10:18-58
+meta-data#android.notch_support
+ADDED from C:\Users\shuqi\Documents\GitHub\HackTheNorth2019\Best AR Project\Temp\gradleOut\src\main\AndroidManifest.xml:11:7-78
+	android:value
+		ADDED from C:\Users\shuqi\Documents\GitHub\HackTheNorth2019\Best AR Project\Temp\gradleOut\src\main\AndroidManifest.xml:11:55-75
+	android:name
+		ADDED from C:\Users\shuqi\Documents\GitHub\HackTheNorth2019\Best AR Project\Temp\gradleOut\src\main\AndroidManifest.xml:11:18-54
+meta-data#unity.build-id
+ADDED from C:\Users\shuqi\Documents\GitHub\HackTheNorth2019\Best AR Project\Temp\gradleOut\src\main\AndroidManifest.xml:13:5-101
+	android:value
+		ADDED from C:\Users\shuqi\Documents\GitHub\HackTheNorth2019\Best AR Project\Temp\gradleOut\src\main\AndroidManifest.xml:13:46-98
+	android:name
+		ADDED from C:\Users\shuqi\Documents\GitHub\HackTheNorth2019\Best AR Project\Temp\gradleOut\src\main\AndroidManifest.xml:13:16-45
+meta-data#unity.splash-mode
+ADDED from C:\Users\shuqi\Documents\GitHub\HackTheNorth2019\Best AR Project\Temp\gradleOut\src\main\AndroidManifest.xml:14:5-69
+	android:value
+		ADDED from C:\Users\shuqi\Documents\GitHub\HackTheNorth2019\Best AR Project\Temp\gradleOut\src\main\AndroidManifest.xml:14:49-66
+	android:name
+		ADDED from C:\Users\shuqi\Documents\GitHub\HackTheNorth2019\Best AR Project\Temp\gradleOut\src\main\AndroidManifest.xml:14:16-48
+meta-data#unity.splash-enable
+ADDED from C:\Users\shuqi\Documents\GitHub\HackTheNorth2019\Best AR Project\Temp\gradleOut\src\main\AndroidManifest.xml:15:5-74
+	android:value
+		ADDED from C:\Users\shuqi\Documents\GitHub\HackTheNorth2019\Best AR Project\Temp\gradleOut\src\main\AndroidManifest.xml:15:51-71
+	android:name
+		ADDED from C:\Users\shuqi\Documents\GitHub\HackTheNorth2019\Best AR Project\Temp\gradleOut\src\main\AndroidManifest.xml:15:16-50
+meta-data#notch.config
+ADDED from C:\Users\shuqi\Documents\GitHub\HackTheNorth2019\Best AR Project\Temp\gradleOut\src\main\AndroidManifest.xml:16:5-81
+	android:value
+		ADDED from C:\Users\shuqi\Documents\GitHub\HackTheNorth2019\Best AR Project\Temp\gradleOut\src\main\AndroidManifest.xml:16:44-78
+	android:name
+		ADDED from C:\Users\shuqi\Documents\GitHub\HackTheNorth2019\Best AR Project\Temp\gradleOut\src\main\AndroidManifest.xml:16:16-43
+meta-data#unityplayer.SkipPermissionsDialog
+ADDED from C:\Users\shuqi\Documents\GitHub\HackTheNorth2019\Best AR Project\Temp\gradleOut\src\main\AndroidManifest.xml:17:5-88
+	android:value
+		ADDED from C:\Users\shuqi\Documents\GitHub\HackTheNorth2019\Best AR Project\Temp\gradleOut\src\main\AndroidManifest.xml:17:65-85
+	android:name
+		ADDED from C:\Users\shuqi\Documents\GitHub\HackTheNorth2019\Best AR Project\Temp\gradleOut\src\main\AndroidManifest.xml:17:16-64
+meta-data#com.google.ar.core
+ADDED from C:\Users\shuqi\Documents\GitHub\HackTheNorth2019\Best AR Project\Temp\gradleOut\src\main\AndroidManifest.xml:18:5-77
+	android:value
+		ADDED from C:\Users\shuqi\Documents\GitHub\HackTheNorth2019\Best AR Project\Temp\gradleOut\src\main\AndroidManifest.xml:18:50-74
+	android:name
+		ADDED from C:\Users\shuqi\Documents\GitHub\HackTheNorth2019\Best AR Project\Temp\gradleOut\src\main\AndroidManifest.xml:18:16-49
+uses-feature#0x00030000
+ADDED from C:\Users\shuqi\Documents\GitHub\HackTheNorth2019\Best AR Project\Temp\gradleOut\src\main\AndroidManifest.xml:20:3-52
+	android:glEsVersion
+		ADDED from C:\Users\shuqi\Documents\GitHub\HackTheNorth2019\Best AR Project\Temp\gradleOut\src\main\AndroidManifest.xml:20:17-49
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\shuqi\Documents\GitHub\HackTheNorth2019\Best AR Project\Temp\gradleOut\src\main\AndroidManifest.xml:21:3-65
+	android:name
+		ADDED from C:\Users\shuqi\Documents\GitHub\HackTheNorth2019\Best AR Project\Temp\gradleOut\src\main\AndroidManifest.xml:21:20-62
+uses-feature#android.hardware.touchscreen
+ADDED from C:\Users\shuqi\Documents\GitHub\HackTheNorth2019\Best AR Project\Temp\gradleOut\src\main\AndroidManifest.xml:22:3-88
+	android:required
+		ADDED from C:\Users\shuqi\Documents\GitHub\HackTheNorth2019\Best AR Project\Temp\gradleOut\src\main\AndroidManifest.xml:22:61-85
+	android:name
+		ADDED from C:\Users\shuqi\Documents\GitHub\HackTheNorth2019\Best AR Project\Temp\gradleOut\src\main\AndroidManifest.xml:22:17-60
+uses-feature#android.hardware.touchscreen.multitouch
+ADDED from C:\Users\shuqi\Documents\GitHub\HackTheNorth2019\Best AR Project\Temp\gradleOut\src\main\AndroidManifest.xml:23:3-99
+	android:required
+		ADDED from C:\Users\shuqi\Documents\GitHub\HackTheNorth2019\Best AR Project\Temp\gradleOut\src\main\AndroidManifest.xml:23:72-96
+	android:name
+		ADDED from C:\Users\shuqi\Documents\GitHub\HackTheNorth2019\Best AR Project\Temp\gradleOut\src\main\AndroidManifest.xml:23:17-71
+uses-feature#android.hardware.touchscreen.multitouch.distinct
+ADDED from C:\Users\shuqi\Documents\GitHub\HackTheNorth2019\Best AR Project\Temp\gradleOut\src\main\AndroidManifest.xml:24:3-108
+	android:required
+		ADDED from C:\Users\shuqi\Documents\GitHub\HackTheNorth2019\Best AR Project\Temp\gradleOut\src\main\AndroidManifest.xml:24:81-105
+	android:name
+		ADDED from C:\Users\shuqi\Documents\GitHub\HackTheNorth2019\Best AR Project\Temp\gradleOut\src\main\AndroidManifest.xml:24:17-80
+uses-permission#android.permission.CAMERA
+ADDED from C:\Users\shuqi\Documents\GitHub\HackTheNorth2019\Best AR Project\Temp\gradleOut\src\main\AndroidManifest.xml:25:3-63
+	android:name
+		ADDED from C:\Users\shuqi\Documents\GitHub\HackTheNorth2019\Best AR Project\Temp\gradleOut\src\main\AndroidManifest.xml:25:20-60
+uses-feature#android.hardware.camera.ar
+ADDED from C:\Users\shuqi\Documents\GitHub\HackTheNorth2019\Best AR Project\Temp\gradleOut\src\main\AndroidManifest.xml:26:3-85
+	android:required
+		ADDED from C:\Users\shuqi\Documents\GitHub\HackTheNorth2019\Best AR Project\Temp\gradleOut\src\main\AndroidManifest.xml:26:59-82
+	android:name
+		ADDED from C:\Users\shuqi\Documents\GitHub\HackTheNorth2019\Best AR Project\Temp\gradleOut\src\main\AndroidManifest.xml:26:17-58
+uses-sdk
+INJECTED from C:\Users\shuqi\Documents\GitHub\HackTheNorth2019\Best AR Project\Temp\gradleOut\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\shuqi\Documents\GitHub\HackTheNorth2019\Best AR Project\Temp\gradleOut\src\main\AndroidManifest.xml
+INJECTED from C:\Users\shuqi\Documents\GitHub\HackTheNorth2019\Best AR Project\Temp\gradleOut\src\main\AndroidManifest.xml
+MERGED from [:arcore_client:] C:\Users\shuqi\.gradle\caches\transforms-2\files-2.1\90a627d54ccecb45db3725316652e25c\AndroidManifest.xml:26:5-28:41
+MERGED from [:arcore_client:] C:\Users\shuqi\.gradle\caches\transforms-2\files-2.1\90a627d54ccecb45db3725316652e25c\AndroidManifest.xml:26:5-28:41
+MERGED from [:unityandroidpermissions:] C:\Users\shuqi\.gradle\caches\transforms-2\files-2.1\e2dd06078b3b39d452c49f69f7080a2a\AndroidManifest.xml:11:5-13:41
+MERGED from [:unityandroidpermissions:] C:\Users\shuqi\.gradle\caches\transforms-2\files-2.1\e2dd06078b3b39d452c49f69f7080a2a\AndroidManifest.xml:11:5-13:41
+INJECTED from C:\Users\shuqi\Documents\GitHub\HackTheNorth2019\Best AR Project\Temp\gradleOut\src\main\AndroidManifest.xml
+INJECTED from C:\Users\shuqi\Documents\GitHub\HackTheNorth2019\Best AR Project\Temp\gradleOut\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\shuqi\Documents\GitHub\HackTheNorth2019\Best AR Project\Temp\gradleOut\src\main\AndroidManifest.xml
+		ADDED from C:\Users\shuqi\Documents\GitHub\HackTheNorth2019\Best AR Project\Temp\gradleOut\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\shuqi\Documents\GitHub\HackTheNorth2019\Best AR Project\Temp\gradleOut\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\shuqi\Documents\GitHub\HackTheNorth2019\Best AR Project\Temp\gradleOut\src\main\AndroidManifest.xml
+		ADDED from C:\Users\shuqi\Documents\GitHub\HackTheNorth2019\Best AR Project\Temp\gradleOut\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\shuqi\Documents\GitHub\HackTheNorth2019\Best AR Project\Temp\gradleOut\src\main\AndroidManifest.xml
+meta-data#com.google.ar.core.min_apk_version
+ADDED from [:arcore_client:] C:\Users\shuqi\.gradle\caches\transforms-2\files-2.1\90a627d54ccecb45db3725316652e25c\AndroidManifest.xml:33:9-35:41
+	android:value
+		ADDED from [:arcore_client:] C:\Users\shuqi\.gradle\caches\transforms-2\files-2.1\90a627d54ccecb45db3725316652e25c\AndroidManifest.xml:35:13-38
+	android:name
+		ADDED from [:arcore_client:] C:\Users\shuqi\.gradle\caches\transforms-2\files-2.1\90a627d54ccecb45db3725316652e25c\AndroidManifest.xml:34:13-62
+activity#com.google.ar.core.InstallActivity
+ADDED from [:arcore_client:] C:\Users\shuqi\.gradle\caches\transforms-2\files-2.1\90a627d54ccecb45db3725316652e25c\AndroidManifest.xml:37:9-43:80
+	android:excludeFromRecents
+		ADDED from [:arcore_client:] C:\Users\shuqi\.gradle\caches\transforms-2\files-2.1\90a627d54ccecb45db3725316652e25c\AndroidManifest.xml:40:13-46
+	android:launchMode
+		ADDED from [:arcore_client:] C:\Users\shuqi\.gradle\caches\transforms-2\files-2.1\90a627d54ccecb45db3725316652e25c\AndroidManifest.xml:42:13-43
+	android:exported
+		ADDED from [:arcore_client:] C:\Users\shuqi\.gradle\caches\transforms-2\files-2.1\90a627d54ccecb45db3725316652e25c\AndroidManifest.xml:41:13-37
+	android:configChanges
+		ADDED from [:arcore_client:] C:\Users\shuqi\.gradle\caches\transforms-2\files-2.1\90a627d54ccecb45db3725316652e25c\AndroidManifest.xml:39:13-74
+	android:theme
+		ADDED from [:arcore_client:] C:\Users\shuqi\.gradle\caches\transforms-2\files-2.1\90a627d54ccecb45db3725316652e25c\AndroidManifest.xml:43:13-77
+	android:name
+		ADDED from [:arcore_client:] C:\Users\shuqi\.gradle\caches\transforms-2\files-2.1\90a627d54ccecb45db3725316652e25c\AndroidManifest.xml:38:13-62
